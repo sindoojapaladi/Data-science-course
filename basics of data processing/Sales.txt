@@ -1,0 +1,6 @@
+dbgxfkm,gbfd,4623,1001,5 Star,2,10,20,Tue Nov 29 17:02:28 2022
+dghj,sgrg,34608,1003,Candy,5,2,10,Tue Nov 29 19:20:55 2022
+nfg,hsng.com,4877,1004,Chocolate Cake,2,550,1010.0,Tue Nov 29 19:55:23 2022
+gbjio,hsd.com,542,1004,Chocolate Cake,2,550,1010,Tue Nov 29 19:57:12 2022
+nhsv,sbn.com,6557,1002,Bar-One,45,20,810,Tue Nov 29 19:59:54 2022
+h,gs,453,1002,Bar-One,3,20,66,Tue Nov 29 21:01:40 2022
