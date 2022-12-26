@@ -1,2 +1,2 @@
 # Data-science-course
-I learnt web scraping,Data analysis.
+It includes projects which I made while learning Data Science track
